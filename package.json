@@ -1,7 +1,7 @@
 {
-  "name": "understanding-typescript",
+  "name": "typescript-share-place",
   "version": "1.0.0",
-  "description": "Understanding TypeScript Course Setup",
+  "description": "TypeScript",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,7 +11,7 @@
     "typescript",
     "course"
   ],
-  "author": "Maximilian Schwarzmüller",
+  "author": "Richard Oh",
   "license": "ISC",
   "devDependencies": {
     "ts-loader": "^6.2.1",
